@@ -1,0 +1,365 @@
+.f2 {
+    width: 100%;
+    height: 60px;
+}
+
+.f2 h1 {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.f2 img {
+    margin-top: -10px;
+    float: left;
+    width:200px;
+}
+.f3 {
+    width: 100%;
+    height: 45px;
+}
+.f3 h2 {
+    margin-left: 10px;
+    display: inline-block;
+    height: 30px;
+    padding: 8px 8px 0px 8px;
+    padding-top: 15px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* #00e673*/
+.f3 .html {
+    margin-left: 0px;  
+}
+.title {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.content {
+    width: 80%;
+    height: 52.5pc;
+    margin-left: 10%;
+    margin-right: 10%; 
+    border: 3px rgb(36, 36, 36) double;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 10px;
+    
+}
+
+.x1 {
+    border: none;
+    background-color: #900;
+    color: #fff;
+    width: 150px;
+    padding: 10px;
+    height: 40px;
+    border-radius: 40px 0px 40px 0px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    transition: all 0.5s;
+    display: inline-block;
+}.x1:hover {
+    background-color: rgb(187, 0, 0);
+    border-radius: 40px;
+    transition: all 0.5s;
+}
+.exam2 {
+    display: none;
+}
+
+
+.exam3 {
+    display: none;
+}
+
+.exam4 {
+    display: inline-block;
+
+    display: none;
+}   
+ .exam5{
+        display: none;
+    }
+    .exam6{
+        display: none;
+    }
+
+
+
+.x2 {
+    border: none;
+    background-color: #900;
+    color: #fff;
+    width:150px;
+    padding: 10px;
+    height: 40px;
+    border-radius: 40px 0px 40px 0px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    transition: all 0.5s;
+    display: inline-block;
+   
+    
+}
+
+.x2:hover {
+    background-color: rgb(187, 0, 0);
+    border-radius: 40px;
+    transition: all 0.5s;
+}
+
+.x3 {
+    border: none;
+    background-color: #900;
+    color: #fff;
+    width: 150px;
+    padding: 10px;
+    height: 40px;
+    border-radius: 40px 0px 40px 0px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    transition: all 0.5s;
+    display: inline-block;
+    float: right;
+}
+
+.x3:hover {
+    background-color: rgb(187, 0, 0);
+    border-radius: 40px;
+    transition: all 0.5s;
+}
+
+.inp1 {
+    width: 70px;
+    font-size: 15px;
+ 
+    color: rgb(0, 48, 179);
+    text-align: center;
+  
+}   
+    .black_contenr {
+        width: 100%;
+        height: 445px;
+        background-color: black;
+        color: #fff;
+        /* padding: 10px;*/
+    }
+    
+    .black_one {
+        display: inline-block;
+        margin-left: 90px;
+        margin-bottom: 10px;
+    }
+    
+    .fff {
+        display: inline-block;
+        margin-left: 90px;
+    }
+    
+    .black_tow {
+        display: inline-block;
+        margin-left: 90px;
+    }
+    
+    .black_contenr span {
+        font-size: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        margin-left: -15px;
+        line-height: 30px;
+    }
+    
+    .black_contenr li {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    .black_contenr img {
+        margin-top: 20px;
+        margin-bottom: 15px;
+        margin-left: 10px;
+        display: inline-block;
+        transition: all 0.5s;
+    }
+    
+    .black_contenr img:hover {
+        transition: all 0.5s;
+        height: 35px;
+        
+    }
+    
+    .black_contenr .t1 {
+        font-size: 22px;
+        font-weight: 700;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 15px;
+        transition: all 0.5s;
+    }
+    
+    .black_contenr a {
+        color: rgb(184, 184, 184);
+    }
+    
+    .black_contenr a:hover {
+        color: rgb(255, 255, 255);
+    }
+    .top{
+        float:right;
+        margin-right: 20px;
+        text-decoration: none;
+        display:inline-block;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+    .black_contenr .EXJAS{
+        display:none;
+    }
+    .Examples_css{
+        display: inline-block;
+        margin-left: -40px;
+      
+    }
+    .elnteg3{
+        font-size: 70px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 10px;
+        color: #900;
+              display: inline-block;
+        display: none;
+
+       
+    }
+    .elnteg4{
+        font-size: 70px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 10px;
+        color: #900;
+        display: inline-block;
+        display: none;
+    }
+    .title1{  
+        font-size: 30px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+       padding: 10px;
+        color: #000;
+        display: inline-block;
+        margin-top: 80px;
+    
+    }
+    .nase7a_1{
+        color: #444;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 15px;
+        display: none;
+
+    }
+    .nase7a_2{
+        color: #444;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 15px;
+        display:none;
+    }
+    .feca1_1{
+      /*  margin-left: 630px;*/
+        margin-top: -220px;
+        float: right;
+        display: none;
+        
+       
+        
+    }
+    .feca2_2{
+        margin-top: -150px;
+        float:right;
+        display: none;
+
+
+    }
+    .feca1_1 img{
+        width: 100px;
+         
+          
+      }
+      .feca2_2 img{
+        width: 100px;
+      }
+    .hr{
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        
+    }
+    .title2{  
+        font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #900;
+        display: inline-block;
+        padding: 8px;
+    }
+    .elagabat_elglat1{
+        display:inline-block;
+    
+        
+        
+    }
+    .elagabat_elglat2{
+        display:inline-block;
+        border-left: 2px solid #444444fd;
+        margin-left: 80px;
+       
+        padding: 15px;
+        height: 350px;
+    }
+    .inp{
+        width: 70px;
+        font-size: 16px;
+    
+     
+        color: rgb(0, 48, 179);
+        text-align: center;
+      
+    }  
+       /*تنسيق الاساله*/
+       .t_c{
+        color: rgb(209, 0, 0);
+        font-size: 20px;
+         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+         
+    }
+    .c_t{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 17px;
+    }
+    .g_t{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         font-size: 17px; 
+       
+    }
+    .black_tow_1{
+        display:none;
+    }
+    .none{
+        display:none;
+    }
+    .none_phone{
+       
+        display: block;
+    }
+    .margin_left{
+        margin-left:30px;
+    }
+  
